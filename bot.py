@@ -5,7 +5,7 @@ from telebot import types
 from pycoingecko import CoinGeckoAPI
 import time
 
-bot = telebot.TeleBot('1944273740:AAEfH-Jxe0XVz141nX5LSSUZ1dTbVwr9XYI')
+bot = telebot.TeleBot('')
 
 cg = CoinGeckoAPI()
 SICK = True
